@@ -1,0 +1,15 @@
+User request for allocated vehicle:
+Vehicle ID: 4
+Type: Car
+Capacity: 2
+---------------------------------------------------
+User request for allocated vehicle:
+Vehicle ID: 6
+Type: Truck
+Capacity: 20
+---------------------------------------------------
+User request for allocated vehicle:
+Vehicle ID: 7
+Type: Car
+Capacity: 3
+---------------------------------------------------

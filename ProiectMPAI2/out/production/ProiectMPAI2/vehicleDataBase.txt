@@ -1,0 +1,2 @@
+ID: 1, Type: Car, Capacity: 5, Status: available
+ID: 2, Type: Truck, Capacity: 15, Status: unavailable
